@@ -196,6 +196,27 @@ body{
 	width: 600px;
 }
 
+#conc{
+	margin-top: 200px;;
+}
+#conc #ult{
+	width: 600px;
+	float: right;
+	margin-right: 70px;
+}
+#conc #title{
+	padding-top: 50px;
+	font-size: 60px;
+	color: white;
+	text-align: center;
+}
+
+#conc #texto{
+	color: white;
+	text-align: center;
+	font-size: 30px;
+	
+}
 .card {
 	width: 400px;
 	height: 600px;
