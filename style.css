@@ -158,14 +158,33 @@ body{
 	float: right;
 	margin-right: 70px;
 }
-.title{
+#sobre #title{
 	padding-top: 50px;
 	font-size: 60px;
 	color: white;
 	text-align: center;
 }
-
-.texto{
+#conc #title{
+	padding-top: 90px;
+	font-size: 60px;
+	color: white;
+	text-align: center;
+}
+#conc{
+	margin-top: 200px;;
+}
+#conc #ult{
+	width: 600px;
+	float: right;
+	margin-right: 70px;
+}
+#conc #texto{
+	color: white;
+	text-align: center;
+	font-size: 30px;
+	
+}
+#sobre #texto{
 	color: white;
 	text-align: center;
 	font-size: 30px;
@@ -179,18 +198,21 @@ body{
 #homem #geral{
 	float: right;
 }
+#homem #title{
+	padding-top: 50px;
+	font-size: 60px;
+	color: white;
+	text-align: center;
+}
+#homem #texto{
+	color: white;
+	text-align: center;
+	font-size: 29px;
+	max-width: 800px;
+}
 
 #homem #hom{
 	width: 600px;
-}
-
-#conc{
-	margin-top: 200px;;
-}
-#conc #ult{
-	width: 600px;
-	float: right;
-	margin-right: 70px;
 }
 
 .card {
