@@ -158,14 +158,14 @@ body{
 	float: right;
 	margin-right: 70px;
 }
-#sobre #title{
+.title{
 	padding-top: 50px;
 	font-size: 60px;
 	color: white;
 	text-align: center;
 }
 
-#sobre #texto{
+.texto{
 	color: white;
 	text-align: center;
 	font-size: 30px;
@@ -178,18 +178,6 @@ body{
 
 #homem #geral{
 	float: right;
-}
-#homem #title{
-	padding-top: 50px;
-	font-size: 60px;
-	color: white;
-	text-align: center;
-}
-#homem #texto{
-	color: white;
-	text-align: center;
-	font-size: 29px;
-	max-width: 800px;
 }
 
 #homem #hom{
@@ -204,19 +192,7 @@ body{
 	float: right;
 	margin-right: 70px;
 }
-#conc #title{
-	padding-top: 50px;
-	font-size: 60px;
-	color: white;
-	text-align: center;
-}
 
-#conc #texto{
-	color: white;
-	text-align: center;
-	font-size: 30px;
-	
-}
 .card {
 	width: 400px;
 	height: 600px;
